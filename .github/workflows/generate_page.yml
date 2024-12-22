@@ -51,8 +51,11 @@ jobs:
           git clone https://github.com/WQhuanm/Issue_Blog_Repo.git output
           cd output && sudo rm -rf node_modules
           npm install
+          echo $PWD
           cp ../Blog/* ./source/_posts/
-          hexo clean && hexo generate 
+          echo $PWD
+          hexo clean && hexo generate
+          echo $PWD
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
