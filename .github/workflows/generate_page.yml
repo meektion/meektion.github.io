@@ -1,14 +1,10 @@
 name: Deploy static content to GitPages
 on:
-  issues:
-    types:
-      - opened
-      - edited
-      - closed
-      - reopened
-      - labeled
-      - unlabeled
   workflow_dispatch:
+  workflow_run:
+    workflows: [generate_readme]  # 依赖于 Workflow 1 的完成
+    types:
+      - completed
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
