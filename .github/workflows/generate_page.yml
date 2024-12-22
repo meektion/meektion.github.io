@@ -46,9 +46,9 @@ jobs:
           npm install -g hexo-cli
           git clone https://$GH_TOKEN@github.com/WQhuanm/Issue_Blog_Repo.git output
           cd output && sudo rm -rf node_modules
-          npm install
+          npm install && npm install --save-dev \ gulp-minify-css \ gulp-babel \ gulp-uglify \ gulp-htmlmin \ gulp-htmlclean \ gulp-imagemin \ imagemin-jpegtran \ imagemin-svgo \ imagemin-gifsicle \ imagemin-optipng
           mkdir -p ./source/_posts/ && cp ../Blog/* ./source/_posts/
-          hexo clean && hexo generate 
+          hexo clean && hexo generate && gulp
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
