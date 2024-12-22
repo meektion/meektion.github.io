@@ -176,7 +176,7 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
             new_body = f"cover: {image_url}\n---\n\n" + original_body.split('\n', 1)[1]  # 保留后面的部分
             f.write(f"{new_body}\n")
         else:
-            f.write("cover: /Issue_Blog/img/background.png\n")
+            f.write("cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412222015910.png\n")
             f.write("---\n\n")
             f.write(issue.body)
         # if issue.comments:
