@@ -25,7 +25,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ github.token }}
+      GH_TOKEN: ${{ secrets.G_T }}
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
       BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
@@ -48,7 +48,7 @@ jobs:
       - name: Generate Hexo public
         run: |
           npm install -g hexo-cli
-          git clone https://$USER:$GH_TOKEN@github.com/WQhuanm/Issue_Blog_Repo.git output
+          git clone https://$GH_TOKEN@github.com/WQhuanm/Issue_Blog_Repo.git output
           cd output && sudo rm -rf node_modules
           npm install
           cp ../Blog/* ./source/_posts/
