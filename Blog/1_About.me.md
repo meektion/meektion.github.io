@@ -7,5 +7,5 @@ cover: /Issue_Blog/img/background.png
 ---
 
 # I'm WQhuanm.
-退役ACMer
+退役ACMer.
 
