@@ -48,14 +48,11 @@ jobs:
       - name: Generate Hexo public
         run: |
           npm install -g hexo-cli
-          git clone https://github.com/WQhuanm/Issue_Blog_Repo.git output
+          git clone git@github.com:WQhuanm/Issue_Blog_Repo.git output
           cd output && sudo rm -rf node_modules
           npm install
-          echo $PWD
           cp ../Blog/* ./source/_posts/
-          echo $PWD
-          hexo clean && hexo generate
-          echo $PWD
+          hexo clean && hexo generate 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
