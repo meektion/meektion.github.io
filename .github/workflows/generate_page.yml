@@ -2,7 +2,7 @@ name: Deploy static content to GitPages
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: [generate_readme]  # 依赖于 Workflow 1 的完成
+    workflows: [Generate GitBlog README]  # 依赖于Generate GitBlog README 的完成
     types:
       - completed
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
