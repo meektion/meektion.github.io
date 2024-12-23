@@ -8,10 +8,11 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [WQhuanm's Blog](https://wqhuanm.github.io)
+MD_HEAD = """## [Click here to WQhuanm's Blog](https://wqhuanm.github.io/Issue_Blog/)
+if you want to build your blog site this way,you can refer to this [blog]()
 """
 
-BACKUP_DIR = "Blog"
+BACKUP_DIR = "Blog" #存放issue的博客，用来部署到静态网站
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
@@ -156,62 +157,6 @@ def get_to_generate_issues(repo, dir_name, issue_number=None):
     if issue_number:
         to_generate_issues.append(repo.get_issue(int(issue_number)))
     return to_generate_issues
-
-def save_issue(issue, me, dir_name=BACKUP_DIR):
-    md_name = os.path.join(
-        dir_name, f"{issue.number}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
-    )
-    with open(md_name, "w") as f:
-        f.write("---\n")
-        f.write(f"title: {issue.title}\n")
-        f.write(f"date: {format_time(issue.created_at)}\n")
-        if issue.labels:
-            f.write("categories: \n")
-            for label in issue.labels:
-                f.write(f"    - {label.name}\n")
-        original_body = issue.body
-        match = re.match(r'!\[.*?\]\((https?://[^\)]+)\)', original_body)# 使用正则表达式匹配图片链接
-        if match:
-            image_url = match.group(1)
-            new_body = f"cover: {image_url}\n---\n\n" + original_body.split('\n', 1)[1]  # 保留后面的部分
-            f.write(f"{new_body}\n")
-        else:
-            f.write("cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412222015910.png\n")
-            f.write("---\n\n")
-            f.write(issue.body)
-        # if issue.comments:
-        #     for c in issue.get_comments():
-        #         if is_me(c, me):
-        #             f.write("\n\n---\n\n")
-        #             f.write(c.body or "")
-
-def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
-    user = login(token)
-    me = get_me(user)
-    repo = get_repo(user, repo_name)
-    # add to readme one by one, change order here
-    add_md_header("README.md", repo_name)
-    for func in [add_md_top, add_md_recent, add_md_label, add_md_todo]:
-        func(repo, "README.md", me)
-    # generate_rss_feed(repo, "feed.xml", me)
-    to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
-    # save md files to backup folder
-    for issue in to_generate_issues:
-        save_issue(issue, me, dir_name)
-
-if __name__ == "__main__":
-    if not os.path.exists(BACKUP_DIR):
-        os.mkdir(BACKUP_DIR)
-    parser = argparse.ArgumentParser()
-    parser.add_argument("github_token", help="github_token")
-    parser.add_argument("repo_name", help="repo_name")
-    parser.add_argument(
-        "--issue_number", help="issue_number", default=None, required=False
-    )
-    options = parser.parse_args()
-    main(options.github_token, options.repo_name, options.issue_number)
-
-#TODO:
 def _make_friend_table_string(s):
     info_dict = FRIENDS_INFO_DICT.copy()
     try:
@@ -289,6 +234,75 @@ def add_md_firends(repo, md, me):
         md.write(s)
         md.write("</details>\n")
         md.write("\n\n")
+
+#change issue to .md for deployment of your blog site
+def save_issue(issue, me, dir_name=BACKUP_DIR):
+    md_name = os.path.join(
+        dir_name, f"{issue.number}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
+    )
+    # change issue  to md  (Hexo requires this format)
+    # ---
+    # title: issue.title 
+    # date: issue.create_date
+    # categories:
+    #     - issue.label
+    # cover: 
+    # ---
+    # issue.body 
+    #
+
+    #the cover have default value,if you want to customize,make sure the issue body's first line is ![](your png'link) or change the following code 
+    with open(md_name, "w") as f:
+        f.write("---\n")
+        f.write(f"title: {issue.title}\n")
+        f.write(f"date: {format_time(issue.created_at)}\n")
+        if issue.labels:
+            f.write("categories: \n")
+            for label in issue.labels:
+                f.write(f"    - {label.name}\n")
+        original_body = issue.body
+        match = re.match(r'!\[.*?\]\((https?://[^\)]+)\)', original_body)# 使用正则表达式匹配图片链接
+        if match:
+            image_url = match.group(1)
+            new_body = f"cover: {image_url}\n---\n\n" + original_body.split('\n', 1)[1]  # 保留后面的部分
+            f.write(f"{new_body}\n")
+        else:
+            f.write("cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412222015910.png\n")
+            f.write("---\n\n")
+            f.write(issue.body)
+        # if issue.comments:
+        #     for c in issue.get_comments():
+        #         if is_me(c, me):
+        #             f.write("\n\n---\n\n")
+        #             f.write(c.body or "")
+
+def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
+    user = login(token)
+    me = get_me(user)
+    repo = get_repo(user, repo_name)
+    # add to readme one by one, change order here
+    add_md_header("README.md", repo_name)
+    
+    for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
+        func(repo, "README.md", me)
+    generate_rss_feed(repo, "feed.xml", me)
+    to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
+    # save md files to backup folder
+    for issue in to_generate_issues:
+        save_issue(issue, me, dir_name)
+
+if __name__ == "__main__":
+    if not os.path.exists(BACKUP_DIR):
+        os.mkdir(BACKUP_DIR)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("github_token", help="github_token")
+    parser.add_argument("repo_name", help="repo_name")
+    parser.add_argument(
+        "--issue_number", help="issue_number", default=None, required=False
+    )
+    options = parser.parse_args()
+    main(options.github_token, options.repo_name, options.issue_number)
+
 
 
 
