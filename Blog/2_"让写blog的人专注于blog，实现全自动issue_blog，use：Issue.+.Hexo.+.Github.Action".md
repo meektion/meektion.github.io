@@ -85,6 +85,11 @@ readme会根据你打的label对你的博客进行分类
  + 修改BASE_URL
  + 修改jobs:deploy:steps:name: Generate Hexo public 里面的克隆仓库
 
+#### 3. 请把博客仓库的settings的page的生成改成使用action生成
+否则GitPage的部署默认使用分支部署，呈现出来的页面即是你的readme内容
+![](https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412240007927.png)
+
+
 #### 配置后，如果你的博客仓库提交过issue写文章，点击https://{username}.github.io/{your blog repo}/ 就可以看到你的网站了
 
 #### Option
