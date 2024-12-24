@@ -72,7 +72,7 @@ readme会根据你打的label对你的博客进行分类
  + 强烈建议**私人**仓库，因为你配置文件极可能有个人敏感信息
  + 强烈建议先在本地测试好你的静态网站部署是成功的，然后配置成私人仓库给workflow来clone，毕竟本地调试和配置要容易的多
  + 如果你配置好了自己的私人仓库，请在package.json添加这段代码：
-   (否则你必须把generate_page.yml中Generate Hexo public里面run的最后一部分即"&& gulp"删除)
+   (否则你必须把generate_page.yml中Generate Hexo public里面run的最后一部分即"&& gulp"删除，这个gulp用于压缩文件，提高前端页面访问效果的)
     ``` json
         "devDependencies": {
             "gulp": "^4.0.2",
@@ -88,6 +88,83 @@ readme会根据你打的label对你的博客进行分类
             "imagemin-optipng": "^8.0.0"
         }
     ```
+ + 其次，您需要在你的私人仓库根目录添加一个文件，名字为:gulpfile.js ,内容如下：
+    ```javascript
+        var gulp = require("gulp");
+        var minifycss = require("gulp-minify-css");
+        var uglify = require("gulp-uglify");
+        var htmlmin = require("gulp-htmlmin");
+        var htmlclean = require("gulp-htmlclean");
+        var imagemin = require("gulp-imagemin");
+
+        // 压缩css文件
+        gulp.task("minify-css", function () {
+        return gulp
+            .src("./public/**/*.css")
+            .pipe(minifycss())
+            .pipe(gulp.dest("./public"));
+        });
+
+        // 压缩html
+        gulp.task("minify-html", function () {
+        return gulp
+            .src("./public/**/*.html")
+            .pipe(htmlclean())
+            .pipe(
+            htmlmin({
+                collapseWhitespace: true,
+                collapseBooleanAttributes: true,
+                removeComments: true,
+                removeEmptyAttributes: true,
+                removeScriptTypeAttributes: true,
+                removeStyleLinkTypeAttributes: true,
+                minifyJS: true,
+                minifyCSS: true,
+                minifyURLs: true,
+                ignoreCustomFragments: [/\{\{[\s\S]*?\}\}/],
+            })
+            )
+            .pipe(gulp.dest("./public"));
+        });
+
+        // 压缩js文件
+        gulp.task("minify-js", function () {
+        return gulp
+            .src(["./public/**/*.js", "!./public/js/**/*min.js"])
+            .pipe(uglify())
+            .pipe(gulp.dest("./public"));
+        });
+
+        // 压缩图片
+        gulp.task("minify-images", function () {
+        return gulp
+            .src([
+            "./public/**/*.png",
+            "./public/**/*.jpg",
+            "./public/**/*.gif",
+            "./public/**/*.svg",
+            ])
+            .pipe(
+            imagemin([
+                imagemin.gifsicle({ interlaced: true }),
+                imagemin.mozjpeg({ quality: 75, progressive: true }),
+                imagemin.optipng({ optimizationLevel: 5 }),
+                imagemin.svgo({
+                plugins: [{ removeViewBox: true }, { cleanupIDs: false }],
+                }),
+            ])
+            )
+            .pipe(gulp.dest("./public"));
+        });
+
+        gulp.task(
+        "default",
+        gulp.series(
+            gulp.parallel("minify-html", "minify-css", "minify-js", "minify-images")
+        )
+        );
+
+    ```
 #### 2. 修改 .github\workflows\generate_page.yml，参考里面的注释
  + 修改BASE_URL
  + 修改jobs:deploy:steps:name: Generate Hexo public 里面的克隆仓库（也可以改成我提供的仓库来测试:https://github.com/WQhuanm/Test_Blog_Repo.git)
@@ -100,7 +177,7 @@ readme会根据你打的label对你的博客进行分类
 #### 配置后，如果你的博客仓库提交过issue写文章，点击https://{username}.github.io/{your blog repo}/ 就可以看到你的网站了
 
 #### Option
- + workflow生成page时，已经对网站的文件进行压缩，如果网站图片不是那么多的话，无梯子下访问速度还是很快的，如果你有很多图片上传的需求，推荐你使用国内主流图床或者使用Github做图床+CDN技术来优化，可以参考[jsDelivr和Github配合才是最佳免费CDN，五分钟学会使用，附搭建免费图床教程](https://blog.csdn.net/weixin_44786530/article/details/129851540)
+ + workflow生成page时，已经使用了上文提到的gulp对网站的文件进行压缩，如果网站图片不是那么多的话，无梯子下访问速度还是很快的，如果你有很多图片上传的需求，推荐你使用国内主流图床或者使用Github做图床+CDN技术来优化，可以参考[jsDelivr和Github配合才是最佳免费CDN，五分钟学会使用，附搭建免费图床教程](https://blog.csdn.net/weixin_44786530/article/details/129851540)
 
 #### 使用Zola简易配置Gitpage
  1. 你无需弄一个私有仓库了，只需要在博客仓库根目录添加一个config.toml文件，内容如下:
@@ -180,3 +257,4 @@ readme会根据你打的label对你的博客进行分类
 [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)
 [使用 GitHub Issues 来写博客，真香。](https://xie.infoq.cn/article/f89ea3ba86724ef568880ad04)
 [jsDelivr和Github配合才是最佳免费CDN，五分钟学会使用，附搭建免费图床教程](https://blog.csdn.net/weixin_44786530/article/details/129851540)
+[加快GitHub Pages国内访问速度](https://zu1k.com/posts/coding/speedup-github-page/#%E4%BD%BF%E7%94%A8-cdn)
