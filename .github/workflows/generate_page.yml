@@ -45,7 +45,7 @@ jobs:
       - name: Generate Hexo public #please change the clone repo to your own，format as follow：git clone https://$GH_TOKEN@github.com/{username}/{repo}.git output 
         run: |
           npm install -g hexo-cli
-          git clone https://$GH_TOKEN@github.com/WQhuanm/Issue_Blog_Repo.git output 
+          git clone https://github.com/WQhuanm/Test_Blog_Repo.git output 
           cd output && sudo rm -rf node_modules
           npm install 
           mkdir -p ./source/_posts/ && cp ../Blog/* ./source/_posts/
