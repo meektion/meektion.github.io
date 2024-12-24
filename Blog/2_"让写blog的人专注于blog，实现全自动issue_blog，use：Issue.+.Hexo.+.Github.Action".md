@@ -13,7 +13,7 @@ cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412231400807
 >本文主要借鉴于Github的一个issue_blog项目
 [yihong0618/gitblog](https://github.com/yihong0618/gitblog)
 
-### 最终效果可参考我的 [Blog仓库](https://github.com/WQhuanm/Issue_Blog) 以及 [Blog网站](https://wqhuanm.github.io/Issue_Blog/)
+### 最终效果可参考我的[Blog仓库](https://github.com/WQhuanm/Issue_Blog)以及[Blog网站](https://wqhuanm.github.io/Issue_Blog/)
 
 建立个人博客网站是在网上混迹的不错方式
 
