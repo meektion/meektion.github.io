@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
   issues:
     types: [opened, edited]
-  issue_comment:
-    types: [created, edited]
+  # issue_comment:
+  #   types: [created, edited]
   push:
     branches:
       - main
