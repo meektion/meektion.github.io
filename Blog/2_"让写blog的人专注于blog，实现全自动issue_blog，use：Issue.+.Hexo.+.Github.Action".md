@@ -68,23 +68,30 @@ readme会根据你打的label对你的博客进行分类
 我这里提供一种hexo的配置思路，采用的主题是[kira](https://github.com/ch1ny/kira-hexo)
 
 #### 1. 你可以根据你选择的hexo主题进行本地配置后，把这个主题上传到你的私人仓库方便后面workflow来clone
+ + 我也提供了一个公共仓库以便您进行测试，你可以先暂时使用这个https://github.com/WQhuanm/Test_Blog_Repo.git
  + 强烈建议**私人**仓库，因为你配置文件极可能有个人敏感信息
- + 如果你也想使用kira主题，你可以执行如下
-    ```shell
-    npm install -g hexo-cli
-    npm create kira-hexo@latest myblog #虽然官方推荐用pnpm，但是我个人使用pnpm部署不成功，所以分享npm的方法
-    #请删除myblog下的node_modules文件夹，避免可能的错误
-    npm install 
-    hexo clean
-    hexo g
-    hexo s
+ + 强烈建议先在本地测试好你的静态网站部署是成功的，然后配置成私人仓库给workflow来clone，毕竟本地调试和配置要容易的多
+ + 如果你配置好了自己的私人仓库，请在package.json添加这段代码：
+   (否则你必须把generate_page.yml中Generate Hexo public里面run的最后一部分即"&& gulp"删除)
+    ``` json
+        "devDependencies": {
+            "gulp": "^4.0.2",
+            "gulp-minify-css": "^1.2.4",
+            "gulp-babel": "^8.0.0",
+            "gulp-uglify": "^3.0.2",
+            "gulp-htmlmin": "^5.0.1",
+            "gulp-htmlclean": "^2.7.22",
+            "gulp-imagemin": "^7.1.0",
+            "imagemin-jpegtran": "^7.0.0",
+            "imagemin-svgo": "^11.0.0",
+            "imagemin-gifsicle": "^7.0.0",
+            "imagemin-optipng": "^8.0.0"
+        }
     ```
-    这几步下去你的网站基本就配置好了，然后个性化可以参考官方文档修改_config.kira.yml和_config.yml（注意修改_config.yml的url为你Gitpage的url,参考generate_page的BASE_URL）
-
 #### 2. 修改 .github\workflows\generate_page.yml，参考里面的注释
  + 修改BASE_URL
- + 修改jobs:deploy:steps:name: Generate Hexo public 里面的克隆仓库
-
+ + 修改jobs:deploy:steps:name: Generate Hexo public 里面的克隆仓库（也可以改成我提供的仓库来测试:https://github.com/WQhuanm/Test_Blog_Repo.git)
+ 
 #### 3. 请把博客仓库的settings的page的生成改成使用action生成
 否则GitPage的部署默认使用分支部署，呈现出来的页面即是你的readme内容
 ![](https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412240007927.png)
