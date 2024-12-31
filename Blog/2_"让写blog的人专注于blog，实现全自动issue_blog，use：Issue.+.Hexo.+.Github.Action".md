@@ -13,7 +13,8 @@ cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412231400807
 >本文主要借鉴于Github的一个issue_blog项目
 [yihong0618/gitblog](https://github.com/yihong0618/gitblog)
 
-### 最终效果可参考我的[Blog仓库](https://github.com/WQhuanm/Issue_Blog)以及[Blog网站](https://wqhuanm.github.io/Issue_Blog/)
+### 最终效果可参考
+我的[Blog仓库](https://github.com/WQhuanm/Issue_Blog)以及[Blog网站](https://wqhuanm.github.io/Issue_Blog/)
 
 建立个人博客网站是在网上混迹的不错方式
 
@@ -21,7 +22,8 @@ cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412231400807
 
 集思广益后，个人认为这份只需要用issue提交blog，通过Github Action来自动生成Readme,并自动部署博客到静态网站的方法也许值得一试。
 
-### 一，配置Blog repo：clone这个[仓库](https://github.com/WQhuanm/Issue_Blog.git)到你想用来建立博客的仓库
+### 一，配置Blog repo：
+clone这个[仓库](https://github.com/WQhuanm/Issue_Blog.git)到你想用来建立博客的仓库
 
 这份博客运作的核心有三:
 1. main.py: 内含生成readme的逻辑
