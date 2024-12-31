@@ -43,7 +43,7 @@ clone这个[仓库](https://github.com/WQhuanm/Issue_Blog.git)到你想用来建
 
 最后Generate token便可获取，注意保存这个字符串，只会出现这一次
 
-![](https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412231344362.png)
+![](https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412311236964.png)
 
 ##### 2. 在你博客仓库的settings的Actions secrets and variables添加你刚刚获得的token。
 建议命名为G_T(否则需要把2个workflow里面的G_T改为你设定的名字)
