@@ -46,7 +46,7 @@ jobs:
         #you also can change the clone repo to a test_repo,format as follow git clone https://github.com/WQhuanm/Test_Blog_Repo.git output
         run: |
           npm install -g hexo-cli
-          git clone https://$GH_TOKEN@github.com/meektion/Issue_Blog_Repo.git output 
+          git clone https://github.com/meektion/Test_Blog_Repo.git output 
           cd output && sudo rm -rf node_modules
           npm install 
           mkdir -p ./source/_posts/ && cp ../Blog/* ./source/_posts/
