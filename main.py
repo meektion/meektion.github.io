@@ -8,7 +8,7 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [WQhuanm's Blog](https://meektion.github.io/Issue_Blog/)
+MD_HEAD = """## [meektoin's Blog](https://meektion.github.io/Issue_Blog/)
 if you want to build your blog site this way,you can refer to this [blog](https://meektion.github.io/Issue_Blog/2025/02/16/8_About/)
 """
 
