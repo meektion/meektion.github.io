@@ -8,8 +8,8 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Click here to WQhuanm's Blog](https://wqhuanm.github.io/Issue_Blog/)
-if you want to build your blog site this way,you can refer to this [blog](https://wqhuanm.github.io/Issue_Blog/2024/12/22/2_%22%E8%AE%A9%E5%86%99blog%E7%9A%84%E4%BA%BA%E4%B8%93%E6%B3%A8%E4%BA%8Eblog%EF%BC%8C%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8issue_blog%EF%BC%8Cuse%EF%BC%9AIssue.+.Hexo.+.Github.Action%22/)
+MD_HEAD = """## [WQhuanm's Blog](https://meektion.github.io/Issue_Blog/)
+if you want to build your blog site this way,you can refer to this [blog](https://meektion.github.io/Issue_Blog/2025/02/16/8_About/)
 """
 
 BACKUP_DIR = "Blog" #存放issue的博客，用来部署到静态网站
