@@ -2,11 +2,11 @@
 if you want to build your blog site this way,you can refer to this [blog](https://meektion.github.io/2025/02/16/8_About/)
 
 ## 最近更新
+- [测试](https://github.com/meektion/meektion.github.io/issues/21)--2025-02-17
 - [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 - [掠过木星](https://github.com/meektion/meektion.github.io/issues/19)--2025-02-17
 - [github子仓库如可绑定域名](https://github.com/meektion/meektion.github.io/issues/16)--2025-02-16
 - [[ 收录 ] 一家英国公司正在建造水下住宅](https://github.com/meektion/meektion.github.io/issues/15)--2025-02-16
-- [沙子国际象棋](https://github.com/meektion/meektion.github.io/issues/14)--2025-02-16
 ## 2025
 - [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 - [掠过木星](https://github.com/meektion/meektion.github.io/issues/19)--2025-02-17
@@ -25,5 +25,6 @@ if you want to build your blog site this way,you can refer to this [blog](https:
 - [树莓派掌上电脑](https://github.com/meektion/meektion.github.io/issues/10)--2025-02-16
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 ## 一些小想法
+- [测试](https://github.com/meektion/meektion.github.io/issues/21)--2025-02-17
 - [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 - [github子仓库如可绑定域名](https://github.com/meektion/meektion.github.io/issues/16)--2025-02-16
