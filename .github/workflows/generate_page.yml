@@ -1,4 +1,4 @@
-gname: Deploy static content to GitPages
+name: Deploy static content to GitPages
 on:
   workflow_dispatch:
   workflow_run:
