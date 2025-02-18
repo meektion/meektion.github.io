@@ -8,8 +8,9 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [meektoin's Blog](https://meektion.github.io/)
-if you want to build your blog site this way,you can refer to this [blog](https://meektion.github.io/2025/02/16/8_About/)
+MD_HEAD = """## [Click here to WQhuanm's Blog](https://meektion.github.io/)
+My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) using issues and GitHub Actions (随意转载，无需署名)
+![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
 """
 
 BACKUP_DIR = "Blog" #存放issue的博客，用来部署到静态网站
@@ -245,6 +246,8 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
     # title: issue.title 
     # date: issue.create_date
     # categories:
+    #     - issue.milestone
+    # tags:
     #     - issue.label
     # cover: 
     # ---
@@ -255,9 +258,12 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
     with open(md_name, "w") as f:
         f.write("---\n")
         f.write(f"title: {issue.title}\n")
-        f.write(f"date: {format_time(issue.created_at)}\n")
-        if issue.labels:
+        f.write(f"date: {issue.created_at}\n")
+        if issue.milestone:
             f.write("categories: \n")
+            f.write(f"    - {issue.milestone.title}\n")
+        if issue.labels:
+            f.write("tags: \n")
             for label in issue.labels:
                 f.write(f"    - {label.name}\n")
         original_body = issue.body
@@ -302,13 +308,3 @@ if __name__ == "__main__":
     )
     options = parser.parse_args()
     main(options.github_token, options.repo_name, options.issue_number)
-
-
-
-
-
-
-
-
-
-
