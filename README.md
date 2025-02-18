@@ -34,11 +34,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
 - [AI‘横行，网站形式的互联网走向何方](https://github.com/meektion/meektion.github.io/issues/33)--2025-02-18
 - [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
 - [三个开源的 Android 邮件客户端](https://github.com/meektion/meektion.github.io/issues/31)--2025-02-18
 - [Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
-- [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 ## 生活
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
@@ -76,10 +76,12 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 一些小想法
+- [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
 - [AI‘横行，网站形式的互联网走向何方](https://github.com/meektion/meektion.github.io/issues/33)--2025-02-18
 - [Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
 - [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 - [github子仓库如可绑定域名](https://github.com/meektion/meektion.github.io/issues/16)--2025-02-16
 ## 一些小事情
+- [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
