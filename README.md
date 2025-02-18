@@ -2,7 +2,7 @@
 if you want to build your blog site this way,you can refer to this [blog](https://meektion.github.io/2025/02/16/8_About/)
 
 ## 最近更新
-- [[ 有点想法 ] Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
+- [Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 - [开源的 DJ 混音软件](https://github.com/meektion/meektion.github.io/issues/28)--2025-02-17
 - [一个在线电子印章生成工具](https://github.com/meektion/meektion.github.io/issues/27)--2025-02-17
@@ -10,7 +10,7 @@ if you want to build your blog site this way,you can refer to this [blog](https:
 ## 生活
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
-- [[ 有点想法 ] Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
+- [Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 - [开源的 DJ 混音软件](https://github.com/meektion/meektion.github.io/issues/28)--2025-02-17
 - [一个在线电子印章生成工具](https://github.com/meektion/meektion.github.io/issues/27)--2025-02-17
@@ -42,7 +42,7 @@ if you want to build your blog site this way,you can refer to this [blog](https:
 </details>
 
 ## 一些小想法
-- [[ 有点想法 ] Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
+- [Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
 - [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 - [github子仓库如可绑定域名](https://github.com/meektion/meektion.github.io/issues/16)--2025-02-16
 ## 一些小事情
