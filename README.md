@@ -34,11 +34,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [仙王座的象鼻星云](https://github.com/meektion/meektion.github.io/issues/43)--2025-02-19
 - [NGC 300：恒星的聚落](https://github.com/meektion/meektion.github.io/issues/42)--2025-02-19
 - [3D地形图](https://github.com/meektion/meektion.github.io/issues/41)--2025-02-19
 - [问界M9的车灯互动游戏](https://github.com/meektion/meektion.github.io/issues/40)--2025-02-19
 - [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
-- [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 ## 生活
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
@@ -97,6 +97,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 收录
+- [仙王座的象鼻星云](https://github.com/meektion/meektion.github.io/issues/43)--2025-02-19
 - [NGC 300：恒星的聚落](https://github.com/meektion/meektion.github.io/issues/42)--2025-02-19
 - [3D地形图](https://github.com/meektion/meektion.github.io/issues/41)--2025-02-19
 - [问界M9的车灯互动游戏](https://github.com/meektion/meektion.github.io/issues/40)--2025-02-19
