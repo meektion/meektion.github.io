@@ -34,12 +34,13 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [永久激活 Windows](https://github.com/meektion/meektion.github.io/issues/37)--2025-02-19
 - [Ghosten-Player：视频 播放器](https://github.com/meektion/meektion.github.io/issues/36)--2025-02-19
 - [学习人工智能和机器学习的免费资源](https://github.com/meektion/meektion.github.io/issues/35)--2025-02-18
 - [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
-- [AI‘横行，网站形式的互联网走向何方](https://github.com/meektion/meektion.github.io/issues/33)--2025-02-18
 ## 生活
+- [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
 - [永久激活 Windows](https://github.com/meektion/meektion.github.io/issues/37)--2025-02-19
