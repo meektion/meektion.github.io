@@ -8,7 +8,7 @@ cover: https://pic.superbed.cc/item/67b20d5dfa9f77b4dcf39cbd.png
 
 
 要将GitHub子仓库绑定到自定义域名，请按照以下步骤操作：
-
+<!---more--->
 创建GitHub Pages：
 
 在子仓库中创建一个名为 gh-pages 的分支。
