@@ -11,7 +11,9 @@ cover: https://pic.superbed.cc/item/67b5f79e01c078e31041aa6b.png
 
 NGC 300：恒星的聚落  
 影像提供与版权: Daniel Stern
+
 <!---more--->
+
 ![](https://pic.superbed.cc/item/674e6b82fa9f77b4dc789651.jpg)
 
 说明： 这个星系之所以看起来很不寻常，是因为其可见的恒星数量。
