@@ -82,7 +82,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [一个在线电子印章生成工具](https://github.com/meektion/meektion.github.io/issues/27)--2025-02-17
 - [第一颗直连手机的星链卫星已经完成](https://github.com/meektion/meektion.github.io/issues/24)--2025-02-17
 - [阿比斯库的幻日](https://github.com/meektion/meektion.github.io/issues/22)--2025-02-17
-- [[ 收录 ] 一家英国公司正在建造水下住宅](https://github.com/meektion/meektion.github.io/issues/15)--2025-02-16
+- [一家英国公司正在建造水下住宅](https://github.com/meektion/meektion.github.io/issues/15)--2025-02-16
 - [超声波洗澡机](https://github.com/meektion/meektion.github.io/issues/11)--2025-02-16
 - [树莓派掌上电脑](https://github.com/meektion/meektion.github.io/issues/10)--2025-02-16
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
