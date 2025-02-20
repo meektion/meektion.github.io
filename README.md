@@ -34,23 +34,24 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [推荐的docker应用](https://github.com/meektion/meektion.github.io/issues/49)--2025-02-20
 - [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
 - [一个用于个人托管和管理直播源的项目](https://github.com/meektion/meektion.github.io/issues/47)--2025-02-20
 - [谷歌 Gemini 或将支持视频生成](https://github.com/meektion/meektion.github.io/issues/46)--2025-02-20
 - [SpaceX 首次实现跨国回收](https://github.com/meektion/meektion.github.io/issues/45)--2025-02-20
-- [让命令行工具连接代理](https://github.com/meektion/meektion.github.io/issues/44)--2025-02-19
 ## 生活
 - [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
+- [推荐的docker应用](https://github.com/meektion/meektion.github.io/issues/49)--2025-02-20
 - [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
 - [让命令行工具连接代理](https://github.com/meektion/meektion.github.io/issues/44)--2025-02-19
 - [3D地形图](https://github.com/meektion/meektion.github.io/issues/41)--2025-02-19
 - [问界M9的车灯互动游戏](https://github.com/meektion/meektion.github.io/issues/40)--2025-02-19
-- [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
 <details><summary>显示更多</summary>
 
+- [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
 - [永久激活 Windows](https://github.com/meektion/meektion.github.io/issues/37)--2025-02-19
 - [Ghosten-Player：视频 播放器](https://github.com/meektion/meektion.github.io/issues/36)--2025-02-19
 - [学习人工智能和机器学习的免费资源](https://github.com/meektion/meektion.github.io/issues/35)--2025-02-18
@@ -71,13 +72,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 记录
+- [推荐的docker应用](https://github.com/meektion/meektion.github.io/issues/49)--2025-02-20
 - [一个用于个人托管和管理直播源的项目](https://github.com/meektion/meektion.github.io/issues/47)--2025-02-20
 - [谷歌 Gemini 或将支持视频生成](https://github.com/meektion/meektion.github.io/issues/46)--2025-02-20
 - [SpaceX 首次实现跨国回收](https://github.com/meektion/meektion.github.io/issues/45)--2025-02-20
 - [让命令行工具连接代理](https://github.com/meektion/meektion.github.io/issues/44)--2025-02-19
-- [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
 <details><summary>显示更多</summary>
 
+- [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
 - [永久激活 Windows](https://github.com/meektion/meektion.github.io/issues/37)--2025-02-19
 - [Ghosten-Player：视频 播放器](https://github.com/meektion/meektion.github.io/issues/36)--2025-02-19
 - [学习人工智能和机器学习的免费资源](https://github.com/meektion/meektion.github.io/issues/35)--2025-02-18
