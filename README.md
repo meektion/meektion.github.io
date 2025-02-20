@@ -34,11 +34,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [谷歌 Gemini 或将支持视频生成](https://github.com/meektion/meektion.github.io/issues/46)--2025-02-20
 - [SpaceX 首次实现跨国回收](https://github.com/meektion/meektion.github.io/issues/45)--2025-02-20
 - [让命令行工具连接代理](https://github.com/meektion/meektion.github.io/issues/44)--2025-02-19
 - [仙王座的象鼻星云](https://github.com/meektion/meektion.github.io/issues/43)--2025-02-19
 - [NGC 300：恒星的聚落](https://github.com/meektion/meektion.github.io/issues/42)--2025-02-19
-- [3D地形图](https://github.com/meektion/meektion.github.io/issues/41)--2025-02-19
 ## 生活
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
@@ -69,13 +69,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 记录
+- [谷歌 Gemini 或将支持视频生成](https://github.com/meektion/meektion.github.io/issues/46)--2025-02-20
 - [SpaceX 首次实现跨国回收](https://github.com/meektion/meektion.github.io/issues/45)--2025-02-20
 - [让命令行工具连接代理](https://github.com/meektion/meektion.github.io/issues/44)--2025-02-19
 - [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
 - [永久激活 Windows](https://github.com/meektion/meektion.github.io/issues/37)--2025-02-19
-- [Ghosten-Player：视频 播放器](https://github.com/meektion/meektion.github.io/issues/36)--2025-02-19
 <details><summary>显示更多</summary>
 
+- [Ghosten-Player：视频 播放器](https://github.com/meektion/meektion.github.io/issues/36)--2025-02-19
 - [学习人工智能和机器学习的免费资源](https://github.com/meektion/meektion.github.io/issues/35)--2025-02-18
 - [AI‘横行，网站形式的互联网走向何方](https://github.com/meektion/meektion.github.io/issues/33)--2025-02-18
 - [三个开源的 Android 邮件客户端](https://github.com/meektion/meektion.github.io/issues/31)--2025-02-18
