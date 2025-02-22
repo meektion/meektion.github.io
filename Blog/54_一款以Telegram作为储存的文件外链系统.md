@@ -21,6 +21,8 @@ tgState
 
 支持web上传文件和telegram直接上传
 
+<!--more-->
+
 搭配CLoudFlare使用：https://github.com/csznet/tgState/blob/main/CloudFlare.md
 
 如有疑惑，可以咨询TG @tgstate123  
