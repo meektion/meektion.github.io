@@ -6,12 +6,11 @@ categories:
 tags: 
     - 2025
     - 收录
-cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412222015910.png
+cover: https://pic.superbed.cc/item/67bd1447d4a81ff0af18e389.jpg
 ---
 
-[Google Drive 现在支持搜索转录后的字幕文稿](https://workspaceupdates.googleblog.com/2025/02/google-drive-video-transcripts.html)
 
-![](https://pic.superbed.cc/item/67bd1447d4a81ff0af18e389.jpg)
+[Google Drive 现在支持搜索转录后的字幕文稿](https://workspaceupdates.googleblog.com/2025/02/google-drive-video-transcripts.html)
 
 <!--more-->
 
@@ -24,4 +23,5 @@ cover: https://gcore.jsdelivr.net/gh/WQhuanm/Img_repo_1@main/img/202412222015910
 从今天开始，Drive 用户可以查看并搜索视频的文字稿。文字稿会出现在视频播放器旁边的侧边栏中，并高亮显示当前说出的文字。这个更新方便用户找到特定的时刻，跟随内容，或直接跳到视频中你需要的部分。
 
 只有当视频已经有字幕时，才有转录选项，这由 Google Drive 视频播放器底部控件中的 CC 按钮显示。如果一个视频没有字幕，你可以通过在 Drive 中右击视频文件，选择“管理字幕轨道”，然后“生成自动字幕”来创建字幕。
+
 
