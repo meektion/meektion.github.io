@@ -34,24 +34,25 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
 - [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 - [typecho 博客主题推荐](https://github.com/meektion/meektion.github.io/issues/57)--2025-02-23
-- [无题](https://github.com/meektion/meektion.github.io/issues/56)--2025-02-23
 ## 生活
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
 - [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
+- [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
 - [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 - [无题](https://github.com/meektion/meektion.github.io/issues/56)--2025-02-23
-- [一款以Telegram作为储存的文件外链系统](https://github.com/meektion/meektion.github.io/issues/54)--2025-02-22
 <details><summary>显示更多</summary>
 
+- [一款以Telegram作为储存的文件外链系统](https://github.com/meektion/meektion.github.io/issues/54)--2025-02-22
 - [推荐一个开源项目Moments - 极简朋友圈](https://github.com/meektion/meektion.github.io/issues/50)--2025-02-21
 - [推荐的docker应用](https://github.com/meektion/meektion.github.io/issues/49)--2025-02-20
 - [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
@@ -79,13 +80,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 记录
+- [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [HTTP状态码301、302、307、308的区别](https://github.com/meektion/meektion.github.io/issues/55)--2025-02-22
 - [us.kg二级域名重置为空解析](https://github.com/meektion/meektion.github.io/issues/53)--2025-02-21
 - [推荐的docker应用](https://github.com/meektion/meektion.github.io/issues/49)--2025-02-20
 - [一个用于个人托管和管理直播源的项目](https://github.com/meektion/meektion.github.io/issues/47)--2025-02-20
-- [谷歌 Gemini 或将支持视频生成](https://github.com/meektion/meektion.github.io/issues/46)--2025-02-20
 <details><summary>显示更多</summary>
 
+- [谷歌 Gemini 或将支持视频生成](https://github.com/meektion/meektion.github.io/issues/46)--2025-02-20
 - [SpaceX 首次实现跨国回收](https://github.com/meektion/meektion.github.io/issues/45)--2025-02-20
 - [让命令行工具连接代理](https://github.com/meektion/meektion.github.io/issues/44)--2025-02-19
 - [GitHub Skyline，可生成 3D 可打印 STL 文件](https://github.com/meektion/meektion.github.io/issues/39)--2025-02-19
@@ -116,11 +118,16 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 一些小事情
+- [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 - [记录 webfollow 中 订阅的RSS源](https://github.com/meektion/meektion.github.io/issues/52)--2025-02-21
 - [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
+<details><summary>显示更多</summary>
+
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
+</details>
+
 ## 收录
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
 - [typecho 博客主题推荐](https://github.com/meektion/meektion.github.io/issues/57)--2025-02-23
