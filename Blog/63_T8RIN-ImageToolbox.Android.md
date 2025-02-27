@@ -20,10 +20,6 @@ Android 的多功能图像编辑工具
 
 ![](https://pic.superbed.cc/item/67c010e1d4a81ff0af66a57f.jpg)
 
-![](https://pic.superbed.cc/item/67c010e1d4a81ff0af66a584.jpg)
-
-![](https://pic.superbed.cc/item/67c010e1d4a81ff0af66a58a.jpg)
-
 ![](https://pic.superbed.cc/item/67c010e1d4a81ff0af66a592.jpg)
 
 ![](https://pic.superbed.cc/item/67c010e1d4a81ff0af66a59b.jpg)
