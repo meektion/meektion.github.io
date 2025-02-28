@@ -1,4 +1,4 @@
-name: Deploy static content to GitPages
+:name: Deploy static content to GitPages
 on:
   workflow_dispatch:
   workflow_run:
@@ -50,7 +50,7 @@ jobs:
           cd output && sudo rm -rf node_modules
           npm install 
           mkdir -p ./source/_posts/ && cp ../Blog/* ./source/_posts/
-          hexo clean && hexo generate && gulp
+          hexo clean && hexo generate 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
