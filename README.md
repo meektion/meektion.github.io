@@ -34,11 +34,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [命令与征服开源](https://github.com/meektion/meektion.github.io/issues/64)--2025-02-28
 - [T8RIN/ImageToolbox Android](https://github.com/meektion/meektion.github.io/issues/63)--2025-02-27
 - [蜂鸟鹰蛾](https://github.com/meektion/meektion.github.io/issues/62)--2025-02-26
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
-- [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
 ## 生活
 - [蜂鸟鹰蛾](https://github.com/meektion/meektion.github.io/issues/62)--2025-02-26
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
@@ -46,13 +46,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
+- [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [命令与征服开源](https://github.com/meektion/meektion.github.io/issues/64)--2025-02-28
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
-- [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 <details><summary>显示更多</summary>
 
+- [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 - [无题](https://github.com/meektion/meektion.github.io/issues/56)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/meektion/meektion.github.io/issues/54)--2025-02-22
 - [推荐一个开源项目Moments - 极简朋友圈](https://github.com/meektion/meektion.github.io/issues/50)--2025-02-21
@@ -110,24 +111,26 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 一些小想法
+- [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [无题](https://github.com/meektion/meektion.github.io/issues/56)--2025-02-23
 - [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
 - [AI‘横行，网站形式的互联网走向何方](https://github.com/meektion/meektion.github.io/issues/33)--2025-02-18
 - [Grok 3 将于太平洋时间周一晚上 8 点发布现场演示](https://github.com/meektion/meektion.github.io/issues/30)--2025-02-18
-- [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 <details><summary>显示更多</summary>
 
+- [使用 Nginx Proxy Manager 进行反代的基本步骤](https://github.com/meektion/meektion.github.io/issues/20)--2025-02-17
 - [github子仓库如可绑定域名](https://github.com/meektion/meektion.github.io/issues/16)--2025-02-16
 </details>
 
 ## 一些小事情
+- [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 - [记录 webfollow 中 订阅的RSS源](https://github.com/meektion/meektion.github.io/issues/52)--2025-02-21
 - [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
-- [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 <details><summary>显示更多</summary>
 
+- [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
 
