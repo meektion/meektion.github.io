@@ -34,11 +34,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
+- [我来人间一趟，也要驰骋一场 ---](https://github.com/meektion/meektion.github.io/issues/77)--2025-03-02
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
 - [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
 - [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 - [ChatGPT4.5凌晨发布](https://github.com/meektion/meektion.github.io/issues/69)--2025-02-28
-- [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 ## 生活
 - [蜂鸟鹰蛾](https://github.com/meektion/meektion.github.io/issues/62)--2025-02-26
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
@@ -128,13 +128,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 一些小事情
+- [我来人间一趟，也要驰骋一场 ---](https://github.com/meektion/meektion.github.io/issues/77)--2025-03-02
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
 - [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
 - [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
-- [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 <details><summary>显示更多</summary>
 
+- [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
 - [记录 webfollow 中 订阅的RSS源](https://github.com/meektion/meektion.github.io/issues/52)--2025-02-21
 - [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
