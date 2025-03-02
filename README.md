@@ -34,7 +34,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 
 ## 最近更新
-- [ces](https://github.com/meektion/meektion.github.io/issues/72)--2025-03-02
+- [hgjhgd](https://github.com/meektion/meektion.github.io/issues/73)--2025-03-02
 - [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
 - [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 - [ChatGPT4.5凌晨发布](https://github.com/meektion/meektion.github.io/issues/69)--2025-02-28
@@ -46,7 +46,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 ## 2025
-- [ces](https://github.com/meektion/meektion.github.io/issues/72)--2025-03-02
+- [hgjhgd](https://github.com/meektion/meektion.github.io/issues/73)--2025-03-02
 - [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 - [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [命令与征服开源](https://github.com/meektion/meektion.github.io/issues/64)--2025-02-28
