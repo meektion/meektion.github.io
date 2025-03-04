@@ -1,17 +1,21 @@
 name: Deploy static content to GitPages
+
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: [Generate GitBlog README]  # Depends on the completion of the workflow: Generate GitBlog README
+    workflows: [Generate GitBlog README]
     types:
       - completed
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+
 permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read
+  deployments: write
+
 concurrency:
-  group: ${{ github.workflow }}
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -24,37 +28,43 @@ jobs:
       GH_TOKEN: ${{ secrets.G_T }}
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
-      #if you use Gitpage and your repo'name is not {usernmae}.github.io,please use this
-      BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-      # else if your repo's name is {usernmae}.github.io,please use this,please use this
-      # BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+      BASE_URL: ${{ github.repository_owner != github.event.repository.name && format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) || format('https://{0}.github.io', github.repository_owner) }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Use Node.js 20
+        with:
+          fetch-depth: 1  # 减少克隆深度
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-      - name: Cache NPM dependencies
+          node-version: 20
+          cache: 'npm'  # 使用内置缓存
+
+      - name: Cache Hexo CLI
         uses: actions/cache@v4
         with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
-      - name: Generate Hexo public #please change the clone repo to your own，format as follow：git clone https://$GH_TOKEN@github.com/{username}/{repo}.git output 
-        #you also can change the clone repo to a test_repo,format as follow git clone https://github.com/WQhuanm/Test_Blog_Repo.git output
+          path: ~/.npm
+          key: ${{ runner.os }}-hexo-cli-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-hexo-cli-
+
+      - name: Generate Hexo public
         run: |
-          npm install -g hexo-cli
-          git clone https://github.com/meektion/Test_Blog_Repo.git output 
-          cd output && sudo rm -rf node_modules
-          npm install 
-          mkdir -p ./source/_posts/ && cp ../Blog/* ./source/_posts/
-          hexo clean && hexo generate  && gulp
+          npm install -g hexo-cli --silent
+          git clone --depth 1 https://$GH_TOKEN@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git output
+          cd output
+          npm ci --silent  # 使用 ci 代替 install 以确保一致性
+          mkdir -p ./source/_posts/
+          cp -r ../Blog/* ./source/_posts/
+          hexo clean && hexo generate && gulp
+        env:
+          NODE_ENV: production
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'output/public' #these will be deploy to Gitpage
+          path: 'output/public'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
