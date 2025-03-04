@@ -36,11 +36,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [微软官宣今年5月关闭Skype业务](https://github.com/meektion/meektion.github.io/issues/82)--2025-03-04
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
 - [Firefly ‘Blue Ghost’ 成功登陆月球表面](https://github.com/meektion/meektion.github.io/issues/80)--2025-03-04
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [卡巴斯基在 GitHub 上发现隐藏的恶意程序](https://github.com/meektion/meektion.github.io/issues/78)--2025-03-03
-- [我来人间一趟，也要驰骋一场 ---](https://github.com/meektion/meektion.github.io/issues/77)--2025-03-02
 ## 生活
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
@@ -94,13 +94,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 记录
+- [微软官宣今年5月关闭Skype业务](https://github.com/meektion/meektion.github.io/issues/82)--2025-03-04
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
 - [Firefly ‘Blue Ghost’ 成功登陆月球表面](https://github.com/meektion/meektion.github.io/issues/80)--2025-03-04
 - [卡巴斯基在 GitHub 上发现隐藏的恶意程序](https://github.com/meektion/meektion.github.io/issues/78)--2025-03-03
 - [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
-- [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 <details><summary>显示更多</summary>
 
+- [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 - [ChatGPT4.5凌晨发布](https://github.com/meektion/meektion.github.io/issues/69)--2025-02-28
 - [命令与征服开源](https://github.com/meektion/meektion.github.io/issues/64)--2025-02-28
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
