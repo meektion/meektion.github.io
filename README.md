@@ -36,19 +36,20 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 - [Telegram 正在测试“付费说话”功能](https://github.com/meektion/meektion.github.io/issues/83)--2025-03-04
 - [微软官宣今年5月关闭Skype业务](https://github.com/meektion/meektion.github.io/issues/82)--2025-03-04
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
-- [Firefly ‘Blue Ghost’ 成功登陆月球表面](https://github.com/meektion/meektion.github.io/issues/80)--2025-03-04
 ## 生活
+- [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [蜂鸟鹰蛾](https://github.com/meektion/meektion.github.io/issues/62)--2025-02-26
 - [US.KG 已恢复运作](https://github.com/meektion/meektion.github.io/issues/60)--2025-02-25
-- [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
 <details><summary>显示更多</summary>
 
+- [TVBox自用影视源与iptv源](https://github.com/meektion/meektion.github.io/issues/48)--2025-02-20
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
@@ -95,13 +96,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 记录
+- [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 - [Telegram 正在测试“付费说话”功能](https://github.com/meektion/meektion.github.io/issues/83)--2025-03-04
 - [微软官宣今年5月关闭Skype业务](https://github.com/meektion/meektion.github.io/issues/82)--2025-03-04
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
-- [Firefly ‘Blue Ghost’ 成功登陆月球表面](https://github.com/meektion/meektion.github.io/issues/80)--2025-03-04
 <details><summary>显示更多</summary>
 
+- [Firefly ‘Blue Ghost’ 成功登陆月球表面](https://github.com/meektion/meektion.github.io/issues/80)--2025-03-04
 - [卡巴斯基在 GitHub 上发现隐藏的恶意程序](https://github.com/meektion/meektion.github.io/issues/78)--2025-03-03
 - [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
 - [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
@@ -161,13 +163,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 收录
+- [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
 - [T8RIN/ImageToolbox Android](https://github.com/meektion/meektion.github.io/issues/63)--2025-02-27
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
 - [typecho 博客主题推荐](https://github.com/meektion/meektion.github.io/issues/57)--2025-02-23
-- [一款以Telegram作为储存的文件外链系统](https://github.com/meektion/meektion.github.io/issues/54)--2025-02-22
 <details><summary>显示更多</summary>
 
+- [一款以Telegram作为储存的文件外链系统](https://github.com/meektion/meektion.github.io/issues/54)--2025-02-22
 - [记录 webfollow 中 订阅的RSS源](https://github.com/meektion/meektion.github.io/issues/52)--2025-02-21
 - [推荐个开源项目极简论坛](https://github.com/meektion/meektion.github.io/issues/51)--2025-02-21
 - [推荐一个开源项目Moments - 极简朋友圈](https://github.com/meektion/meektion.github.io/issues/50)--2025-02-21
