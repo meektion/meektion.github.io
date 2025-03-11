@@ -36,11 +36,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
-- [Telegram 正在测试“付费说话”功能](https://github.com/meektion/meektion.github.io/issues/83)--2025-03-04
 ## 生活
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
@@ -151,13 +151,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 一些小事情
+- [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [我来人间一趟，也要驰骋一场 ---](https://github.com/meektion/meektion.github.io/issues/77)--2025-03-02
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
-- [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
 <details><summary>显示更多</summary>
 
+- [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
 - [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
 - [Gmail将全面启用扫码认证取代短信验证码](https://github.com/meektion/meektion.github.io/issues/58)--2025-02-24
@@ -168,13 +169,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 收录
+- [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
-- [T8RIN/ImageToolbox Android](https://github.com/meektion/meektion.github.io/issues/63)--2025-02-27
 <details><summary>显示更多</summary>
 
+- [T8RIN/ImageToolbox Android](https://github.com/meektion/meektion.github.io/issues/63)--2025-02-27
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
 - [typecho 博客主题推荐](https://github.com/meektion/meektion.github.io/issues/57)--2025-02-23
 - [一款以Telegram作为储存的文件外链系统](https://github.com/meektion/meektion.github.io/issues/54)--2025-02-22
