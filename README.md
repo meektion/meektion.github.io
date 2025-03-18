@@ -36,11 +36,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [Serverless Cloud Notepad 云笔记](https://github.com/meektion/meektion.github.io/issues/91)--2025-03-18
 - [春日](https://github.com/meektion/meektion.github.io/issues/90)--2025-03-16
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
-- [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 ## 生活
 - [春日](https://github.com/meektion/meektion.github.io/issues/90)--2025-03-16
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
@@ -56,13 +56,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 2025
+- [Serverless Cloud Notepad 云笔记](https://github.com/meektion/meektion.github.io/issues/91)--2025-03-18
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
-- [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 <details><summary>显示更多</summary>
 
+- [通过手机或平板等设备配置Hexo](https://github.com/meektion/meektion.github.io/issues/70)--2025-02-28
 - [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [命令与征服开源](https://github.com/meektion/meektion.github.io/issues/64)--2025-02-28
 - [ai资讯](https://github.com/meektion/meektion.github.io/issues/61)--2025-02-26
@@ -172,13 +173,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 收录
+- [Serverless Cloud Notepad 云笔记](https://github.com/meektion/meektion.github.io/issues/91)--2025-03-18
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
-- [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
 <details><summary>显示更多</summary>
 
+- [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
 - [T8RIN/ImageToolbox Android](https://github.com/meektion/meektion.github.io/issues/63)--2025-02-27
 - [Google Drive 现在支持搜索转录后的字幕文稿](https://github.com/meektion/meektion.github.io/issues/59)--2025-02-25
 - [typecho 博客主题推荐](https://github.com/meektion/meektion.github.io/issues/57)--2025-02-23
