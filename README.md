@@ -36,11 +36,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [发布Issues转化为hexo文章](https://github.com/meektion/meektion.github.io/issues/96)--2025-04-06
 - [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 - [快速制作 Apple 发布会风格的 Bento UI 图片](https://github.com/meektion/meektion.github.io/issues/94)--2025-04-02
 - [高德地图：最美绕路](https://github.com/meektion/meektion.github.io/issues/93)--2025-04-01
 - [汉洋和朋友们的全世界建模项目 Funes World](https://github.com/meektion/meektion.github.io/issues/92)--2025-03-19
-- [Serverless Cloud Notepad 云笔记](https://github.com/meektion/meektion.github.io/issues/91)--2025-03-18
 ## 生活
 - [春日](https://github.com/meektion/meektion.github.io/issues/90)--2025-03-16
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
@@ -140,13 +140,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 </details>
 
 ## 一些小想法
+- [发布Issues转化为hexo文章](https://github.com/meektion/meektion.github.io/issues/96)--2025-04-06
 - [高德地图：最美绕路](https://github.com/meektion/meektion.github.io/issues/93)--2025-04-01
 - [汉洋和朋友们的全世界建模项目 Funes World](https://github.com/meektion/meektion.github.io/issues/92)--2025-03-19
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 - [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
-- [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 <details><summary>显示更多</summary>
 
+- [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [方向永远比速度更重要](https://github.com/meektion/meektion.github.io/issues/65)--2025-02-28
 - [无题](https://github.com/meektion/meektion.github.io/issues/56)--2025-02-23
 - [xA 正式发发布了 AI 大模型](https://github.com/meektion/meektion.github.io/issues/34)--2025-02-18
