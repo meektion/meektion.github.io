@@ -13,34 +13,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 #### 2.“我们没有希望，他们也没有希望，这就是希望。”
 
-## [友情链接](https://github.com/meektion/meektion.github.io/issues/32)
-<details><summary>显示</summary>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Link</th>
-<th>Desc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></details>
-
-
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [微软： Windows 的inetpub文件夹用于安全修復](https://github.com/meektion/meektion.github.io/issues/100)--2025-04-13
 - [VERT--开源的文件转换工具](https://github.com/meektion/meektion.github.io/issues/99)--2025-04-13
 - [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
 - [AI 时代互联网魔力的消退](https://github.com/meektion/meektion.github.io/issues/97)--2025-04-08
 - [发布Issues转化为hexo文章](https://github.com/meektion/meektion.github.io/issues/96)--2025-04-06
-- [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 - [春日](https://github.com/meektion/meektion.github.io/issues/90)--2025-03-16
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
@@ -97,13 +77,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
+- [微软： Windows 的inetpub文件夹用于安全修復](https://github.com/meektion/meektion.github.io/issues/100)--2025-04-13
 - [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
-- [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 <details><summary>显示更多</summary>
 
+- [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 - [Telegram 正在测试“付费说话”功能](https://github.com/meektion/meektion.github.io/issues/83)--2025-03-04
 - [微软官宣今年5月关闭Skype业务](https://github.com/meektion/meektion.github.io/issues/82)--2025-03-04
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
@@ -155,6 +136,8 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [github子仓库如可绑定域名](https://github.com/meektion/meektion.github.io/issues/16)--2025-02-16
 </details>
 
+## link
+- [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
 - [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
