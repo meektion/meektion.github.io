@@ -13,7 +13,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 #### 2.“我们没有希望，他们也没有希望，这就是希望。”
 
-## [友情链接](https://github.com/meektion/gitblog/issues/32)
+## [友情链接](https://github.com/meektion/meektion.github.io/issues/32)
 <details><summary>显示</summary>
 <table>
 <thead>
