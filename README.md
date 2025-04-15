@@ -16,11 +16,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [Albert Einstein’s theory of relativity in words of four letters or less (1999)](https://github.com/meektion/meektion.github.io/issues/102)--2025-04-15
 - [将你的创意和图像转化为视频](https://github.com/meektion/meektion.github.io/issues/101)--2025-04-13
 - [微软： Windows 的inetpub文件夹用于安全修復](https://github.com/meektion/meektion.github.io/issues/100)--2025-04-13
 - [VERT--开源的文件转换工具](https://github.com/meektion/meektion.github.io/issues/99)--2025-04-13
 - [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
-- [AI 时代互联网魔力的消退](https://github.com/meektion/meektion.github.io/issues/97)--2025-04-08
 - [春日](https://github.com/meektion/meektion.github.io/issues/90)--2025-03-16
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [苹果推出搭载 M3 芯片的 2025 款 iPad Air](https://github.com/meektion/meektion.github.io/issues/81)--2025-03-04
@@ -77,13 +77,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
+- [Albert Einstein’s theory of relativity in words of four letters or less (1999)](https://github.com/meektion/meektion.github.io/issues/102)--2025-04-15
 - [将你的创意和图像转化为视频](https://github.com/meektion/meektion.github.io/issues/101)--2025-04-13
 - [微软： Windows 的inetpub文件夹用于安全修復](https://github.com/meektion/meektion.github.io/issues/100)--2025-04-13
 - [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
-- [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 <details><summary>显示更多</summary>
 
+- [用 AI 工作流搭建的 Hacker News 每日播报](https://github.com/meektion/meektion.github.io/issues/86)--2025-03-08
 - [HeyGen 一键翻译视频 AI](https://github.com/meektion/meektion.github.io/issues/85)--2025-03-05
 - [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 - [Telegram 正在测试“付费说话”功能](https://github.com/meektion/meektion.github.io/issues/83)--2025-03-04
