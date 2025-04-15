@@ -16,7 +16,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
-- [Albert Einstein’s theory of relativity in words of four letters or less (1999)](https://github.com/meektion/meektion.github.io/issues/102)--2025-04-15
+- [思考一下](https://github.com/meektion/meektion.github.io/issues/102)--2025-04-15
 - [将你的创意和图像转化为视频](https://github.com/meektion/meektion.github.io/issues/101)--2025-04-13
 - [微软： Windows 的inetpub文件夹用于安全修復](https://github.com/meektion/meektion.github.io/issues/100)--2025-04-13
 - [VERT--开源的文件转换工具](https://github.com/meektion/meektion.github.io/issues/99)--2025-04-13
@@ -77,7 +77,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
-- [Albert Einstein’s theory of relativity in words of four letters or less (1999)](https://github.com/meektion/meektion.github.io/issues/102)--2025-04-15
+- [思考一下](https://github.com/meektion/meektion.github.io/issues/102)--2025-04-15
 - [将你的创意和图像转化为视频](https://github.com/meektion/meektion.github.io/issues/101)--2025-04-13
 - [微软： Windows 的inetpub文件夹用于安全修復](https://github.com/meektion/meektion.github.io/issues/100)--2025-04-13
 - [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
