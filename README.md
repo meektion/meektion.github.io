@@ -16,11 +16,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [木星的底部](https://github.com/meektion/meektion.github.io/issues/111)--2025-05-26
 - [星团NGC 6366与蛇夫47星](https://github.com/meektion/meektion.github.io/issues/110)--2025-05-24
 - [终极社交](https://github.com/meektion/meektion.github.io/issues/109)--2025-05-13
 - [比尔·盖茨宣布将捐出几乎全部财富](https://github.com/meektion/meektion.github.io/issues/107)--2025-05-10
-- [全球 电视直播 免费在线观看平台](https://github.com/meektion/meektion.github.io/issues/106)--2025-04-29
 - [比尔·盖茨宣布将捐出几乎全部财富](https://github.com/meektion/meektion.github.io/issues/107)--2025-05-10
 - [全球 电视直播 免费在线观看平台](https://github.com/meektion/meektion.github.io/issues/106)--2025-04-29
 - [创业家私藏的灵感宝库](https://github.com/meektion/meektion.github.io/issues/105)--2025-04-23
@@ -38,13 +38,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
 
+- [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [终极社交](https://github.com/meektion/meektion.github.io/issues/109)--2025-05-13
 - [GitHub 现在提供Windows arm64 运行器](https://github.com/meektion/meektion.github.io/issues/103)--2025-04-15
 - [汉洋和朋友们的全世界建模项目 Funes World](https://github.com/meektion/meektion.github.io/issues/92)--2025-03-19
 - [Serverless Cloud Notepad 云笔记](https://github.com/meektion/meektion.github.io/issues/91)--2025-03-18
-- [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 <details><summary>显示更多</summary>
 
+- [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [百度文库和百度网盘，全量接入了 DeepSeek-R1 满血版](https://github.com/meektion/meektion.github.io/issues/84)--2025-03-05
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
@@ -149,13 +150,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 ## link
 - [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
+- [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
-- [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 <details><summary>显示更多</summary>
 
+- [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 - [我来人间一趟，也要驰骋一场 ---](https://github.com/meektion/meektion.github.io/issues/77)--2025-03-02
 - [文生图：AI 驱动下的图像创作魔法世界](https://github.com/meektion/meektion.github.io/issues/76)--2025-03-02
 - [Telegram将推出展示用户更多信息的功能](https://github.com/meektion/meektion.github.io/issues/71)--2025-03-01
@@ -168,13 +170,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
 
+- [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [星团NGC 6366与蛇夫47星](https://github.com/meektion/meektion.github.io/issues/110)--2025-05-24
 - [比尔·盖茨宣布将捐出几乎全部财富](https://github.com/meektion/meektion.github.io/issues/107)--2025-05-10
 - [全球 电视直播 免费在线观看平台](https://github.com/meektion/meektion.github.io/issues/106)--2025-04-29
 - [VERT--开源的文件转换工具](https://github.com/meektion/meektion.github.io/issues/99)--2025-04-13
-- [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
 <details><summary>显示更多</summary>
 
+- [谷歌推出云端 AI 编程工具](https://github.com/meektion/meektion.github.io/issues/98)--2025-04-12
 - [快速制作 Apple 发布会风格的 Bento UI 图片](https://github.com/meektion/meektion.github.io/issues/94)--2025-04-02
 - [Serverless Cloud Notepad 云笔记](https://github.com/meektion/meektion.github.io/issues/91)--2025-03-18
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
