@@ -16,11 +16,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [KatelyaTV 自托管影视聚合播放器](https://github.com/meektion/meektion.github.io/issues/123)--2025-09-29
 - [AI 应用开发资源库](https://github.com/meektion/meektion.github.io/issues/122)--2025-09-29
 - [BSS：基于贝叶斯算法的 Telegram广告拦截机器人](https://github.com/meektion/meektion.github.io/issues/121)--2025-09-29
 - [Edge 浏览器新增安全功能](https://github.com/meektion/meektion.github.io/issues/120)--2025-09-26
 - [Cloudflare 推出 NET Dollar 稳定币](https://github.com/meektion/meektion.github.io/issues/119)--2025-09-26
-- [YouTube 开始标记家庭 Premium 计划中不在同一居住地址的账户](https://github.com/meektion/meektion.github.io/issues/118)--2025-09-02
 - [米哈游《原神》鸿蒙版正式启动预约](https://github.com/meektion/meektion.github.io/issues/117)--2025-08-23
 - [沉浸式翻译浏览器插件敏感信息](https://github.com/meektion/meektion.github.io/issues/116)--2025-08-09
 - [夜光云](https://github.com/meektion/meektion.github.io/issues/115)--2025-07-11
@@ -160,13 +160,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 ## link
 - [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
+- [KatelyaTV 自托管影视聚合播放器](https://github.com/meektion/meektion.github.io/issues/123)--2025-09-29
 - [AI 应用开发资源库](https://github.com/meektion/meektion.github.io/issues/122)--2025-09-29
 - [YouTube 开始标记家庭 Premium 计划中不在同一居住地址的账户](https://github.com/meektion/meektion.github.io/issues/118)--2025-09-02
 - [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
-- [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 <details><summary>显示更多</summary>
 
+- [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
@@ -182,13 +183,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
 
+- [KatelyaTV 自托管影视聚合播放器](https://github.com/meektion/meektion.github.io/issues/123)--2025-09-29
 - [BSS：基于贝叶斯算法的 Telegram广告拦截机器人](https://github.com/meektion/meektion.github.io/issues/121)--2025-09-29
 - [Edge 浏览器新增安全功能](https://github.com/meektion/meektion.github.io/issues/120)--2025-09-26
 - [Cloudflare 推出 NET Dollar 稳定币](https://github.com/meektion/meektion.github.io/issues/119)--2025-09-26
 - [日环食与日全食的混合日食](https://github.com/meektion/meektion.github.io/issues/113)--2025-06-13
-- [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 <details><summary>显示更多</summary>
 
+- [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [星团NGC 6366与蛇夫47星](https://github.com/meektion/meektion.github.io/issues/110)--2025-05-24
 - [比尔·盖茨宣布将捐出几乎全部财富](https://github.com/meektion/meektion.github.io/issues/107)--2025-05-10
 - [全球 电视直播 免费在线观看平台](https://github.com/meektion/meektion.github.io/issues/106)--2025-04-29
