@@ -16,11 +16,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
 - [让状态码更有“意义”](https://github.com/meektion/meektion.github.io/issues/127)--2025-09-29
 - [全局消息加解密](https://github.com/meektion/meektion.github.io/issues/126)--2025-09-29
 - [Google 新政策](https://github.com/meektion/meektion.github.io/issues/125)--2025-09-29
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
-- [KatelyaTV 自托管影视聚合播放器](https://github.com/meektion/meektion.github.io/issues/123)--2025-09-29
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
 - [米哈游《原神》鸿蒙版正式启动预约](https://github.com/meektion/meektion.github.io/issues/117)--2025-08-23
 - [沉浸式翻译浏览器插件敏感信息](https://github.com/meektion/meektion.github.io/issues/116)--2025-08-09
@@ -142,13 +142,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
+- [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
 - [让状态码更有“意义”](https://github.com/meektion/meektion.github.io/issues/127)--2025-09-29
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
 - [终极社交](https://github.com/meektion/meektion.github.io/issues/109)--2025-05-13
 - [AI 时代互联网魔力的消退](https://github.com/meektion/meektion.github.io/issues/97)--2025-04-08
-- [发布Issues转化为hexo文章](https://github.com/meektion/meektion.github.io/issues/96)--2025-04-06
 <details><summary>显示更多</summary>
 
+- [发布Issues转化为hexo文章](https://github.com/meektion/meektion.github.io/issues/96)--2025-04-06
 - [高德地图：最美绕路](https://github.com/meektion/meektion.github.io/issues/93)--2025-04-01
 - [汉洋和朋友们的全世界建模项目 Funes World](https://github.com/meektion/meektion.github.io/issues/92)--2025-03-19
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
@@ -165,13 +166,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 ## link
 - [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
+- [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
 - [KatelyaTV 自托管影视聚合播放器](https://github.com/meektion/meektion.github.io/issues/123)--2025-09-29
 - [AI 应用开发资源库](https://github.com/meektion/meektion.github.io/issues/122)--2025-09-29
 - [YouTube 开始标记家庭 Premium 计划中不在同一居住地址的账户](https://github.com/meektion/meektion.github.io/issues/118)--2025-09-02
 - [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
-- [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 <details><summary>显示更多</summary>
 
+- [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
 - [热门 SaaS 软件工具「开源平替」合集](https://github.com/meektion/meektion.github.io/issues/88)--2025-03-11
 - [基于 CF Pages+AI 制作的论坛](https://github.com/meektion/meektion.github.io/issues/87)--2025-03-08
