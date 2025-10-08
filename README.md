@@ -16,18 +16,19 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [NGC 7380：巫师星云](https://github.com/meektion/meektion.github.io/issues/131)--2025-10-08
 - [test-ipv6.com 将继续运营](https://github.com/meektion/meektion.github.io/issues/130)--2025-10-08
 - [JetBrains](https://github.com/meektion/meektion.github.io/issues/129)--2025-10-02
 - [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
 - [让状态码更有“意义”](https://github.com/meektion/meektion.github.io/issues/127)--2025-09-29
-- [全局消息加解密](https://github.com/meektion/meektion.github.io/issues/126)--2025-09-29
+- [NGC 7380：巫师星云](https://github.com/meektion/meektion.github.io/issues/131)--2025-10-08
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
 - [米哈游《原神》鸿蒙版正式启动预约](https://github.com/meektion/meektion.github.io/issues/117)--2025-08-23
 - [沉浸式翻译浏览器插件敏感信息](https://github.com/meektion/meektion.github.io/issues/116)--2025-08-09
 - [夜光云](https://github.com/meektion/meektion.github.io/issues/115)--2025-07-11
-- [比尔·盖茨宣布将捐出几乎全部财富](https://github.com/meektion/meektion.github.io/issues/107)--2025-05-10
 <details><summary>显示更多</summary>
 
+- [比尔·盖茨宣布将捐出几乎全部财富](https://github.com/meektion/meektion.github.io/issues/107)--2025-05-10
 - [全球 电视直播 免费在线观看平台](https://github.com/meektion/meektion.github.io/issues/106)--2025-04-29
 - [创业家私藏的灵感宝库](https://github.com/meektion/meektion.github.io/issues/105)--2025-04-23
 - [Telegram 假 Safeguard 骗局最新伎俩汇总](https://github.com/meektion/meektion.github.io/issues/104)--2025-04-16
