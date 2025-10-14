@@ -13,11 +13,8 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 #### 2.“我们没有希望，他们也没有希望，这就是希望。”
 
-## 置顶文章
-- [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
-- [YouTube 开始标记家庭 Premium 计划中不在同一居住地址的账户](https://github.com/meektion/meektion.github.io/issues/118)--2025-09-02
-- [[ 游戏 ] 体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
+- [体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
 - [NGC 7380：巫师星云](https://github.com/meektion/meektion.github.io/issues/131)--2025-10-08
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
 - [米哈游《原神》鸿蒙版正式启动预约](https://github.com/meektion/meektion.github.io/issues/117)--2025-08-23
@@ -40,13 +37,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
 
-- [[ 游戏 ] 体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
+- [NVIDIA DGX Spark 开始发货](https://github.com/meektion/meektion.github.io/issues/137)--2025-10-14
+- [体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
 - [全局消息加解密](https://github.com/meektion/meektion.github.io/issues/126)--2025-09-29
 - [AI 应用开发资源库](https://github.com/meektion/meektion.github.io/issues/122)--2025-09-29
 - [BSS：基于贝叶斯算法的 Telegram广告拦截机器人](https://github.com/meektion/meektion.github.io/issues/121)--2025-09-29
-- [Cloudflare 推出 NET Dollar 稳定币](https://github.com/meektion/meektion.github.io/issues/119)--2025-09-26
 <details><summary>显示更多</summary>
 
+- [Cloudflare 推出 NET Dollar 稳定币](https://github.com/meektion/meektion.github.io/issues/119)--2025-09-26
 - [带有奇异基因组的微生物或正演化为病毒](https://github.com/meektion/meektion.github.io/issues/114)--2025-06-19
 - [日环食与日全食的混合日食](https://github.com/meektion/meektion.github.io/issues/113)--2025-06-13
 - [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
@@ -168,13 +166,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 
 ## link
 - [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
+- [NVIDIA DGX Spark 开始发货](https://github.com/meektion/meektion.github.io/issues/137)--2025-10-14
 - [test-ipv6.com 将继续运营](https://github.com/meektion/meektion.github.io/issues/130)--2025-10-08
 - [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
 - [KatelyaTV 自托管影视聚合播放器](https://github.com/meektion/meektion.github.io/issues/123)--2025-09-29
 - [AI 应用开发资源库](https://github.com/meektion/meektion.github.io/issues/122)--2025-09-29
-- [YouTube 开始标记家庭 Premium 计划中不在同一居住地址的账户](https://github.com/meektion/meektion.github.io/issues/118)--2025-09-02
 <details><summary>显示更多</summary>
 
+- [YouTube 开始标记家庭 Premium 计划中不在同一居住地址的账户](https://github.com/meektion/meektion.github.io/issues/118)--2025-09-02
 - [macOS 26 终端升级](https://github.com/meektion/meektion.github.io/issues/112)--2025-06-12
 - [判断力非常重要](https://github.com/meektion/meektion.github.io/issues/95)--2025-04-03
 - [最近干了什么](https://github.com/meektion/meektion.github.io/issues/89)--2025-03-15
