@@ -1,6 +1,17 @@
-## [Jaaleng"blog](https://jaaleng.github.io/)
-My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/1/)) using issues and GitHub Actions 
-![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)(随意转载，无需署名)
+## [Click here to Meek's Blog](https://meektion.github.io/)
+My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) using issues and GitHub Actions (随意转载，无需署名)
+![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
+
+* 用文字记录我的胡思乱想与生活的瞬间，我疯狂的想法与可能为之的行动。  
+* 记录在这个时代下的焦虑、迷茫、挣扎与希望。
+* [About me](https://github.com/myogg/myogg)
+
+### 提醒自己：
+#### 1.放弃向他人证明自己，放弃向自己证明自己。专注忘我地去做你应该做的事情，心无旁骛地去解决问题。当你脚踏实地的走自己的路时，那种拼命想要证明什么的冲动就会越来越少。你也会因此变得轻松、自由。
+
+——查理·芒格
+
+#### 2.“我们没有希望，他们也没有希望，这就是希望。”
 
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
@@ -10,8 +21,6 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [可观测宇宙](https://github.com/meektion/meektion.github.io/issues/141)--2025-11-24
 - [比尔盖茨基金会信托大幅减持微软股份](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
 - [参宿一、参宿二、参宿三](https://github.com/meektion/meektion.github.io/issues/139)--2025-11-20
-## 生活
-
 - [体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
 - [NGC 7380：巫师星云](https://github.com/meektion/meektion.github.io/issues/131)--2025-10-08
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
@@ -34,8 +43,6 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [该上班了](https://github.com/meektion/meektion.github.io/issues/38)--2025-02-19
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
-
-## 2025
 
 - [NVIDIA DGX Spark 开始发货](https://github.com/meektion/meektion.github.io/issues/137)--2025-10-14
 - [体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
@@ -91,8 +98,6 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
-## 记录
-
 - [禁止16 岁以下的青少年使用社交媒体](https://github.com/meektion/meektion.github.io/issues/143)--2025-11-24
 - [美NASA将转让](https://github.com/meektion/meektion.github.io/issues/142)--2025-11-24
 - [可观测宇宙](https://github.com/meektion/meektion.github.io/issues/141)--2025-11-24
@@ -147,8 +152,6 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
-## 一些小想法
-
 - [阿里巴巴官宣千问 App 公测上线](https://github.com/meektion/meektion.github.io/issues/138)--2025-11-17
 - [JetBrains](https://github.com/meektion/meektion.github.io/issues/129)--2025-10-02
 - [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
@@ -174,10 +177,7 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 </details>
 
 ## link
-
 - [Friends](https://github.com/meektion/meektion.github.io/issues/32)--2025-02-18
-## 一些小事情
-
 - [NVIDIA DGX Spark 开始发货](https://github.com/meektion/meektion.github.io/issues/137)--2025-10-14
 - [test-ipv6.com 将继续运营](https://github.com/meektion/meektion.github.io/issues/130)--2025-10-08
 - [Google Gboard 团队推出 2025 年新概念键盘](https://github.com/meektion/meektion.github.io/issues/128)--2025-10-01
@@ -203,8 +203,6 @@ My personal blog([About Me](https://github.com/jaaleng/jaaleng.github.io/issues/
 - [全球免费电视频道的M3U直播源](https://github.com/meektion/meektion.github.io/issues/29)--2025-02-17
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
-
-## 收录
 
 - [比尔盖茨基金会信托大幅减持微软股份](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
 - [欧罗巴上的所有水](https://github.com/meektion/meektion.github.io/issues/135)--2025-10-12
