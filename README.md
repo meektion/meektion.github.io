@@ -16,11 +16,11 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
+- [可观测宇宙](https://github.com/meektion/meektion.github.io/issues/141)--2025-11-24
 - [比尔盖茨基金会信托大幅减持微软股份](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
 - [参宿一、参宿二、参宿三](https://github.com/meektion/meektion.github.io/issues/139)--2025-11-20
 - [阿里巴巴官宣千问 App 公测上线](https://github.com/meektion/meektion.github.io/issues/138)--2025-11-17
 - [NVIDIA DGX Spark 开始发货](https://github.com/meektion/meektion.github.io/issues/137)--2025-10-14
-- [体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
 - [体验信使的生活](https://github.com/meektion/meektion.github.io/issues/136)--2025-10-14
 - [NGC 7380：巫师星云](https://github.com/meektion/meektion.github.io/issues/131)--2025-10-08
 - [一个新的音乐站点](https://github.com/meektion/meektion.github.io/issues/124)--2025-09-29
@@ -98,13 +98,14 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [DevToys - 一款开源的开发者工具箱](https://github.com/meektion/meektion.github.io/issues/9)--2025-02-16
 </details>
 
+- [可观测宇宙](https://github.com/meektion/meektion.github.io/issues/141)--2025-11-24
 - [参宿一、参宿二、参宿三](https://github.com/meektion/meektion.github.io/issues/139)--2025-11-20
 - [修复 iPhone 4“天线门”，苹果当年只改了 20 字节代码](https://github.com/meektion/meektion.github.io/issues/133)--2025-10-10
 - [test-ipv6.com 将继续运营](https://github.com/meektion/meektion.github.io/issues/130)--2025-10-08
 - [Google 新政策](https://github.com/meektion/meektion.github.io/issues/125)--2025-09-29
-- [沉浸式翻译浏览器插件敏感信息](https://github.com/meektion/meektion.github.io/issues/116)--2025-08-09
 <details><summary>显示更多</summary>
 
+- [沉浸式翻译浏览器插件敏感信息](https://github.com/meektion/meektion.github.io/issues/116)--2025-08-09
 - [带有奇异基因组的微生物或正演化为病毒](https://github.com/meektion/meektion.github.io/issues/114)--2025-06-19
 - [木星的底部](https://github.com/meektion/meektion.github.io/issues/111)--2025-05-26
 - [星团NGC 6366与蛇夫47星](https://github.com/meektion/meektion.github.io/issues/110)--2025-05-24
