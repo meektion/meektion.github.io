@@ -16,7 +16,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 ## 置顶文章
 - [如果没有人读博客，为什么要写呢？](https://github.com/meektion/meektion.github.io/issues/79)--2025-03-03
 ## 最近更新
-- [比尔·盖茨基金会信托大幅减持微软股份 65%](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
+- [比尔盖茨基金会信托大幅减持微软股份](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
 - [参宿一、参宿二、参宿三](https://github.com/meektion/meektion.github.io/issues/139)--2025-11-20
 - [阿里巴巴官宣千问 App 公测上线](https://github.com/meektion/meektion.github.io/issues/138)--2025-11-17
 - [NVIDIA DGX Spark 开始发货](https://github.com/meektion/meektion.github.io/issues/137)--2025-10-14
@@ -201,7 +201,7 @@ My personal blog([About Me](https://meektion.github.io/2025/02/16/8_About/)) usi
 - [有效的洛雪音源](https://github.com/meektion/meektion.github.io/issues/26)--2025-02-17
 </details>
 
-- [比尔·盖茨基金会信托大幅减持微软股份 65%](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
+- [比尔盖茨基金会信托大幅减持微软股份](https://github.com/meektion/meektion.github.io/issues/140)--2025-11-24
 - [欧罗巴上的所有水](https://github.com/meektion/meektion.github.io/issues/135)--2025-10-12
 - [邮箱服务器配置查询](https://github.com/meektion/meektion.github.io/issues/134)--2025-10-10
 - [Cloudflare 开放企业级功能](https://github.com/meektion/meektion.github.io/issues/132)--2025-10-08
